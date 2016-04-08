@@ -74,7 +74,7 @@ By [Benoit Jacquemont](https://connect.sensiolabs.com/profile/bit_one)
   <dd>Démonstration des principes de Reactive Architecture (responsive, resilient, elastic, message driven) sur le découpage d'une application en transition vers une architecture micro-services. Mise en place de Redis et des composants de Middleware (ESB, RabbitMQ) pour faciliter le découpage applicatif. Mutualisation des modèles canoniques pour éviter la duplication de code. Nous accompagnerons notre présentation d'exemples contextuels inspiré par la mise en œuvre de ces concepts chez Auchan E-Commerce</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://fabien.meurillon.org/sfLive2016/)  
 ~~Video~~
 
 By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)  
@@ -90,7 +90,7 @@ By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)
   <dd>Il est courant de gérer des statuts ou états de produits, dans des sites e-commerce ou éditoriaux. Pour ce faire, il est possible d'agir de façon classique, c'est-à-dire manuellement, ou d'avoir recours à des librairies qui proposent déjà des bases de code. Pour cette présentation, nous aborderons la notion de machine à état et sa définition avant d'envisager, son application, en examinant les librairies open sources existantes. Enfin, à la lumière de Symfony, nous étudierons le nouveau composant "Workflow"</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/lyrixx/le-reveil-du-workflow)  
 ~~Video~~
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
@@ -106,7 +106,7 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
   <dd>Vous avez certainement entendu parler d'ElasticSearch auparavant. Chez BlaBlaCar nous adorons ce moteur de recherche et nous n'hésitons pas une seconde à l'utiliser lorsque cela est justifié. Recherches de trajets, FAQ, logs, détection de fraude, vous découvrirez la quasi intégralité des besoins qui ont justifiés la mise en place d'ElasticSearch chez BlaBlaCar.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar)  
 ~~Video~~
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
