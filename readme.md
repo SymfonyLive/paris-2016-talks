@@ -42,7 +42,7 @@ By [Jérémy Romey](https://connect.sensiolabs.com/profile/jeremyfreeagent)
   <dd>La migration continue d'un vieux projet n’est pas une mince affaire. En premier lieu, il faut définir un périmètre minimal de fonctionnalités à transférer de l'ancien projet au nouveau, et mettre de côté celles qui s'avèrent obsolètes pour enfin intégrer les nouveaux besoins. Mais dans ce processus déjà complexe, que faire des données existantes et comment les adapter à la nouvelle structure ? Comment conserver la synchronisation des données entre les deux projets ? Nous verrons ensemble comment LaFourchette a choisi de répondre à ces problématiques dans le cadre de la refonte d’une de leur principale application de Symfony 2.0 vers Symfony 3.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855)  
 ~~Video~~
 
 By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)  
@@ -58,7 +58,7 @@ By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)
   <dd>Les profilers tel que Blackfire.io ou Memprof permettent de connaitre les fonctions qui prennent ou libèrent de la mémoire. Mais visualiser ce que contient la mémoire PHP permet de mieux comprendre les origines des memory leaks. L'extension PHP Meminfo fournit une vue synthétique du nombre d'instances par classe en mémoire, la liste compléte des objets et autres structures avec les relations qui les lient (membre de classe, présence dans un tableau, etc...). L'accès à ces informations de liaisons permet de comprendre pourquoi un élément n'a pas été libéré de la mémoire en suivant les références qui continuent à pointer sur lui. Le talk commencera par expliquer les mécanismes de libérations de la mémoire (references counter, cyclic reference garbage collector) spécifique à PHP, les effets des memory leaks sur les performances applicatives, puis détaillera des cases studies de fuite mémoire dans des projets Symfony2 et de leur analyse avec meminfo, ainsi que leur résolution.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/bitone/hunting-down-memory-leaks-with-php-meminfo)  
 ~~Video~~
 
 By [Benoit Jacquemont](https://connect.sensiolabs.com/profile/bit_one)  
@@ -122,7 +122,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
   <dd>C'est bien connu, les frameworks full stack, c'est lourd et c'est lent, Symfony le premier. Et chez CCM Benchmark (2ème groupe internet français - 50M de VU), on fait tout pour éviter la lenteur ! Alors pourquoi ai-je décider de migrer nos dizaines d'applications vers Symfony ? Et surtout comment respecter les critères de performances que nous avions défini avec notre bon vieux framework maison ? Voyons ensemble les raisons qui m'ont poussé à faire ce choix et surtout quels process et solutions nous avons pu mettre en oeuvre pour éviter des régressions de performance.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony)  
 ~~Video~~
 
 By [Xavier Leune](https://connect.sensiolabs.com/profile/romainkuzniak)  
@@ -131,9 +131,9 @@ By [Xavier Leune](https://connect.sensiolabs.com/profile/romainkuzniak)
 
 ---
 
-## Keynote
+## Keynote : Pourquoi se faire confiance ?
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/openclassrooms/pourquoi-se-faire-confiance)  
 ~~Video~~
 
 By [Mathieu Nebra](https://connect.sensiolabs.com/profile/mateo21)  
@@ -165,7 +165,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>Il existe beaucoup de concepts dans la sécurité web, les maîtrisez-vous vraiment ? Pouvez-vous les utiliser afin de pirater un site ? Pourtant, pour toute faille que vous saurez exploiter, vous connaîtrez naturellement les moyens vous en protéger. Durant cette présentation, je vais vous montrer comment exploiter et se protéger de quelques vulérabilités: comment retrouver des mots de passes dans une base encodée en sha512, comment trouver et exploiter des failles XSS, bruteforcer une page de login, utiliser le clickjacking, outrepasser une vérification par SMS...</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/ninsuo/slides/blob/d65cf3fd216858e76116beea01cd4d7656bfb470/Web%20Security%20%28detailed%29%20[EN].pptx)  
 ~~Video~~
 
 By [Alain Tiemblo](https://connect.sensiolabs.com/profile/ninsuo)  
@@ -211,7 +211,7 @@ By [Hussein Abbas](https://connect.sensiolabs.com/profile/habbas)
   <dd>Si autrefois nous ne nous soucions guère de la sécurité dans nos applications, il serait aujourd'hui impensable de se lancer dans le développement d'une application sans prendre en compte la sécurité vis à vis d'HTTP. Sans parler des outils communément utilisés dans Symfony (csrf_token, auto escaping Twig, escaping de commandes, hashage de données...), cette présentation s'attachera à présenter les différentes possibilités (CSP, HSTS, Framing options, etc...) offertes par les navigateurs et qu'il est facile a mettre en oeuvre dans Symfony via des bundles ou de la configuration pour éliminer de nombreux vecteurs d'attaque comme les DNS, le CDN poisoning ou les XSS.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romain/securite-and-http-at-symfony-live-paris-2016)  
 ~~Video~~
 
 By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)  
