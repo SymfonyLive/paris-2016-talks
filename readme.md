@@ -91,7 +91,8 @@ By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/le-reveil-du-workflow)  
-~~Video~~
+~~Video~~  
+[Demo](https://github.com/lyrixx/SFLive-Paris2016-Workflow)
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
@@ -233,3 +234,43 @@ By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)
 By [Ori Pekelman](https://connect.sensiolabs.com/profile/jpetitcolas)  
 ![github](icon/github.png) [@OriPekelman](https://github.com/OriPekelman)  
 ![twitter](icon/twitter.png) [@OriPekelman](https://twitter.com/OriPekelman)
+
+---
+
+---
+
+---
+
+# Lightning Talks
+
+## "S" is for "Secure"
+
+[Slides](http://slides.com/jeremyderusse/deck-9)  
+~~Video~~
+
+By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)  
+![github](icon/github.png) [@jeremy-derusse](https://github.com/jeremy-derusse)  
+![twitter](icon/twitter.png) [@jderusse](https://twitter.com/jderusse)
+
+---
+
+## HTTPS automatiquement et gratuitement dans vos projets Symfony
+
+[Slides](https://speakerdeck.com/tgalopin/https-automatiquement-et-gratuitement-dans-vos-projets-symfony)  
+~~Video~~  
+[ACME PHP](https://github.com/acmephp)
+
+By [Titouan Galopin](https://connect.sensiolabs.com/profile/tgalopin)  
+![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
+![twitter](icon/twitter.png) [@titouangalopin](https://twitter.com/titouangalopin)
+
+---
+
+## Persister des Value Objects avec Doctrine
+
+[Slides](https://speakerdeck.com/hhamon/persister-des-value-objects-avec-doctrine)  
+~~Video~~
+
+By [Hugo Hamon](https://connect.sensiolabs.com/profile/hhamon)  
+![github](icon/github.png) [@hhamon](https://github.com/hhamon)  
+![twitter](icon/twitter.png) [@hhamon](https://twitter.com/hhamon)
