@@ -182,7 +182,7 @@ By [Alain Tiemblo](https://connect.sensiolabs.com/profile/ninsuo)
   <dd>La présentation a pour but de revenir sur différents aspects avancés de Doctrine mis en oeuvre au sein de projets Symfony 2.x/3. Elle abordera, entre autres, les éléments suivants : Étendre le vocabulaire DQL (spécifiquement ou à l'aide de bundles existants) Utiliser les différents listeners existants (annotations, listeners, subscribers, utilisation de l'UOW de Doctrine lors d'un flush, etc.); Créer des hydrateurs spécifiques ou des entités partielles pour améliorer les performances sur certaines opérations; Astuces diverses pour améliorer les performances (désactivation des logs, etc.)</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3%A9sentation-SymfonyLive-Doctrine2.pdf)  
 ~~Video~~
 
 By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)  
