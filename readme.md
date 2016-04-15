@@ -228,7 +228,7 @@ By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)
   <dd>Ces-jours-ci on ne parle que de montée en échelle et de scalabilité horizontale. Dans cette présentation, un peu abstraire mais bien pratique, nous parlerons des choix architecturaux que vous pouvez faire pour rendre votre application prête pour un succès planétaire (dommage d’échouer an ayant réussi). Nous allons parler de micro-services, de leur utilité et leurs limites, là où l’on veut communiquer par JSON/HTTP (que d’autres appels REST) et là où un Message Queue en bonne et due forme vous rendra des fiers services futurs. Nous parlerons aussi des écueils à éviter (par la séparation des domaines écritures / lectures) et des choses, que jamais ô jamais vous ne devriez mettre dans une base de données relationnelle. Nous évoquerons en guise de travaux pratiques et cerise sur le gateau comment faire des migration paresseuses avec Symfony.</dd>
 </dl>
 
-[Slides](http://fr.slideshare.net/OriPekelman/construire-des-applications-cloud-natives-symfonylive-paris-2016)  
+[Slides](https://slideshare.net/OriPekelman/construire-des-applications-cloud-natives-symfonylive-paris-2016)  
 ~~Video~~
 
 By [Ori Pekelman](https://connect.sensiolabs.com/profile/jpetitcolas)  
