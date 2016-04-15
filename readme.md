@@ -198,7 +198,7 @@ By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)
   <dd>Présentation du métier de SELLSecure et de la couche technique du projet. Limitations du moteur historique: Augmentation de la complexité des règles demandées par le métier, temps de réponse plus adaptés aux exigences des clients, dette technique énorme sur ce composant essentiel. Choix de l'expression language: Recherche d'alternative dans le monde PHP et au dehors. Le composant Expression Language paraissait le plus convaincant; Permet de créer des règles complexes, le code est directement dans l'application et les temps de réponse semblaient bon. Mise en place: Migration des règles historiques, adaptation du code de l'application avec l'expression language; Extension de l'expression language pour implémenter certaines règles métiers. Démo. Conclusion, retour d'expérience: Tests de performances, retours des métiers et point sur la dette technique.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/husseinab/expression-language-symfony-live)  
 ~~Video~~
 
 By [Hussein Abbas](https://connect.sensiolabs.com/profile/habbas)
