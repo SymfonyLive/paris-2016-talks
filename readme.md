@@ -26,7 +26,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
   <dd>Le nouveau component Guard simplifie la mise en place d'authentification sur nos applications Symfony. Avec une classe par système d'authentification, voyons comment personnaliser les différentes étapes et comment ajouter facilement de nouveaux Guard authenticator à son application Symfony.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie)
+[Slides](https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie)  
 ~~Video~~
 
 By [Jérémy Romey](https://connect.sensiolabs.com/profile/jeremyfreeagent)  
