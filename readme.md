@@ -11,7 +11,7 @@
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/VBWVNIUGKW0)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
