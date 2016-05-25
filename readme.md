@@ -150,7 +150,7 @@ By [Mathieu Nebra](https://connect.sensiolabs.com/profile/mateo21)
   <dd>Après plusieurs mois de discussion, le PHP-FIG (PHP Framework Interop Group) a publié la PSR-6. Son objectif est de permettre l'interopérabilité entre implémentations de systèmes de mise en cache - un aspect indispensable pour gagner en performance dans votre application. Lors de cette conférence, nous verrons les avantages et les limites de PSR-6, nous discuterons des différentes solutions de cache existantes (Doctrine, Stash, php-cache), et je vous présenterai le nouveau composant Symfony Cache.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-de-la-perf-en-standard)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
