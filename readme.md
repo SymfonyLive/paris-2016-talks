@@ -27,7 +27,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](https://speakerdeck.com/jeremyfreeagent/guard-dans-la-vraie-vie)  
-~~Video~~
+[Video](https://youtu.be/GVyO78ZiPOM)
 
 By [Jérémy Romey](https://connect.sensiolabs.com/profile/jeremyfreeagent)  
 ![github](icon/github.png) [@jeremyFreeAgent](https://github.com/jeremyfreeagent)  
@@ -43,7 +43,7 @@ By [Jérémy Romey](https://connect.sensiolabs.com/profile/jeremyfreeagent)
 </dl>
 
 [Slides](https://slideshare.net/VincentCHALAMON/r2d2-to-bb8-60662855)  
-~~Video~~
+[Video](https://youtu.be/PpyHmThTAKw)
 
 By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)  
 ![github](icon/github.png) [@vincentchalamon](https://github.com/vincentchalamon)  
@@ -59,7 +59,7 @@ By [Vincent Chalamon](https://connect.sensiolabs.com/profile/vincentchalamon)
 </dl>
 
 [Slides](https://speakerdeck.com/bitone/hunting-down-memory-leaks-with-php-meminfo)  
-~~Video~~
+[Video](https://youtu.be/ULliZ1eUK34)
 
 By [Benoit Jacquemont](https://connect.sensiolabs.com/profile/bit_one)  
 ![github](icon/github.png) [@BitOne](https://github.com/BitOne)  
@@ -75,7 +75,7 @@ By [Benoit Jacquemont](https://connect.sensiolabs.com/profile/bit_one)
 </dl>
 
 [Slides](http://fabien.meurillon.org/sfLive2016/)  
-~~Video~~
+[Video](https://youtu.be/wKa7Ee6Nsms)
 
 By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)  
 ![github](icon/github.png) [@FabienM](https://github.com/FabienM)  
@@ -91,7 +91,7 @@ By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/le-reveil-du-workflow)  
-~~Video~~  
+[Video](https://youtu.be/4RNKiyYCoIg)
 [Demo](https://github.com/lyrixx/SFLive-Paris2016-Workflow)
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
@@ -108,7 +108,7 @@ By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)
 </dl>
 
 [Slides](https://speakerdeck.com/odolbeau/elasticsearch-chez-blablacar)  
-~~Video~~
+[Video](https://youtu.be/Xl4kQ_DGhyo)
 
 By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)  
 ![github](icon/github.png) [@odolbeau](https://github.com/odolbeau)  
@@ -124,7 +124,7 @@ By [Olivier Dolbeau](https://connect.sensiolabs.com/profile/odolbeau)
 </dl>
 
 [Slides](https://slideshare.net/xavierleune/performance-au-quotidien-dans-un-environnement-symfony)  
-~~Video~~
+[Video](https://youtu.be/U71tiaEDrWI)
 
 By [Xavier Leune](https://connect.sensiolabs.com/profile/romainkuzniak)  
 ![github](icon/github.png) [@xavierleune](https://github.com/xavierleune)  
@@ -151,7 +151,7 @@ By [Mathieu Nebra](https://connect.sensiolabs.com/profile/mateo21)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-de-la-perf-en-standard)  
-~~Video~~
+[Video](https://youtu.be/vEXMQzrveDM)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -167,7 +167,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 </dl>
 
 [Slides](https://github.com/ninsuo/slides/blob/d65cf3fd216858e76116beea01cd4d7656bfb470/Web%20Security%20%28detailed%29%20[EN].pptx)  
-~~Video~~
+[Video](https://youtu.be/0RKu12T0r5g)
 
 By [Alain Tiemblo](https://connect.sensiolabs.com/profile/ninsuo)  
 ![github](icon/github.png) [@ninsuo](https://github.com/ninsuo)  
@@ -183,7 +183,7 @@ By [Alain Tiemblo](https://connect.sensiolabs.com/profile/ninsuo)
 </dl>
 
 [Slides](http://blog.webnet.fr/wp-content/uploads/2016/04/2016-04-06-FINAL-Pr%C3%A9sentation-SymfonyLive-Doctrine2.pdf)  
-~~Video~~
+[Video](https://youtu.be/X-Srb9b-8xE)
 
 By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)  
 ![github](icon/github.png) [@dedeparisg](https://github.com/dedeparisg)  
@@ -199,7 +199,7 @@ By [André Tapia](https://connect.sensiolabs.com/profile/dedeparisg)
 </dl>
 
 [Slides](https://speakerdeck.com/husseinab/expression-language-symfony-live)  
-~~Video~~
+[Video](https://youtu.be/GhRxY4-Aebo)
 
 By [Hussein Abbas](https://connect.sensiolabs.com/profile/habbas)
 
@@ -213,7 +213,7 @@ By [Hussein Abbas](https://connect.sensiolabs.com/profile/habbas)
 </dl>
 
 [Slides](https://speakerdeck.com/romain/securite-and-http-at-symfony-live-paris-2016)  
-~~Video~~
+[Video](https://youtu.be/Vx1_BUohdho)
 
 By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)  
 ![github](icon/github.png) [@romainneutron](https://github.com/romainneutron)  
@@ -229,7 +229,7 @@ By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)
 </dl>
 
 [Slides](https://slideshare.net/OriPekelman/construire-des-applications-cloud-natives-symfonylive-paris-2016)  
-~~Video~~
+[Video](https://youtu.be/63wHVLvWYM4)
 
 By [Ori Pekelman](https://connect.sensiolabs.com/profile/jpetitcolas)  
 ![github](icon/github.png) [@OriPekelman](https://github.com/OriPekelman)  
