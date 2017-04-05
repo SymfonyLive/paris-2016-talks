@@ -91,7 +91,7 @@ By [Fabien Meurillon](https://connect.sensiolabs.com/profile/fabienm)
 </dl>
 
 [Slides](https://speakerdeck.com/lyrixx/le-reveil-du-workflow)  
-[Video](https://youtu.be/4RNKiyYCoIg)
+[Video](https://youtu.be/4RNKiyYCoIg)  
 [Demo](https://github.com/lyrixx/SFLive-Paris2016-Workflow)
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
@@ -135,7 +135,7 @@ By [Xavier Leune](https://connect.sensiolabs.com/profile/romainkuzniak)
 ## Keynote : Pourquoi se faire confiance ?
 
 [Slides](https://speakerdeck.com/openclassrooms/pourquoi-se-faire-confiance)  
-~~Video~~
+[Video](https://youtu.be/-ABESxqiAsU)
 
 By [Mathieu Nebra](https://connect.sensiolabs.com/profile/mateo21)  
 ![github](icon/github.png) [@mateo21](https://github.com/mateo21)  
