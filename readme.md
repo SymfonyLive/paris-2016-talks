@@ -245,7 +245,7 @@ By [Ori Pekelman](https://connect.sensiolabs.com/profile/jpetitcolas)
 
 ## "S" is for "Secure"
 
-[Slides](http://slides.com/jeremyderusse/deck-9)  
+[Slides](http://slides.com/jeremyderusse/s-secure)  
 ~~Video~~
 
 By [Jérémy Derussé](https://connect.sensiolabs.com/profile/jderusse)  
